@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JCarlosRodriguez
-- 👀 I’m interested in Machine learning, AI, DEvops
+- 👀 I’m interested in Data Science and Analytic
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: jcrsebastian@outlook.com
