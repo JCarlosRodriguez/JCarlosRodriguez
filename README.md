@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Analytic
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: jcrsebastian@outlook.com
+- 📫 How to reach me: jcrsebastian.ds@gmail.com
 
 <!---
 JCarlosRodriguez/JCarlosRodriguez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
